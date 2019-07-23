@@ -1,0 +1,1064 @@
+8 - (Noggit.cpp:489): Noggit Studio - 3.1021
+11 - (Noggit.cpp:290): Using config file.
+11 - (Noggit.cpp:498): Game path: ..\..\
+11 - (Noggit.cpp:502): Project path: ..\Project\
+11 - (Noggit.cpp:335): Locale: deDE
+36 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/common.MPQ
+51 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/common-2.MPQ
+56 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/expansion.MPQ
+62 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/lichking.MPQ
+75 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/patch.MPQ
+79 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/patch-2.MPQ
+80 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/patch-3.MPQ
+81 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/patch-5.MPQ
+86 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/locale-deDE.MPQ
+86 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/expansion-locale-deDE.MPQ
+86 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/lichking-locale-deDE.MPQ
+89 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/patch-deDE.MPQ
+90 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/patch-deDE-2.MPQ
+90 - (MPQ.cpp:47): [Debug] Opened archive ..\..\Data/deDE/patch-deDE-3.MPQ
+1938 - (MPQ.cpp:87): [Debug] Completed listfile loading.
+1941 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\AreaTable.dbc"
+1941 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Map.dbc"
+1941 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LoadingScreens.dbc"
+1942 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\Light.dbc"
+1942 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightParams.dbc"
+1942 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightSkybox.dbc"
+1951 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightIntBand.dbc"
+1956 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LightFloatBand.dbc"
+1957 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectDoodad.dbc"
+1962 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\GroundEffectTexture.dbc"
+1963 - (DBCFile.cpp:22): [Debug] Opening DBC "DBFilesClient\LiquidType.dbc"
+2665 - (Video.cpp:152): [Debug] GL: Version: 4.6.13547 Compatibility Profile Context 25.20.15031.5004
+2665 - (Video.cpp:153): [Debug] GL: Vendor: ATI Technologies Inc.
+2665 - (Video.cpp:154): [Debug] GL: Renderer: AMD Radeon (TM) R9 380 Series
+2691 - (Noggit.cpp:522): [Debug] Creating Menu
+2709 - (World.cpp:160): World 451: development has no WDT file!
+2716 - (World.cpp:160): World 582: Transport176244 has no WDT file!
+2716 - (World.cpp:160): World 584: Transport176231 has no WDT file!
+2716 - (World.cpp:160): World 586: Transport181645 has no WDT file!
+2716 - (World.cpp:160): World 587: Transport177233 has no WDT file!
+2716 - (World.cpp:160): World 588: Transport176310 has no WDT file!
+2716 - (World.cpp:160): World 589: Transport175080 has no WDT file!
+2716 - (World.cpp:160): World 590: Transport176495 has no WDT file!
+2716 - (World.cpp:160): World 591: Transport164871 has no WDT file!
+2716 - (World.cpp:160): World 592: Transport186238 has no WDT file!
+2716 - (World.cpp:160): World 593: Transport20808 has no WDT file!
+2717 - (World.cpp:160): World 594: Transport187038 has no WDT file!
+2717 - (World.cpp:160): World 596: Transport187263 has no WDT file!
+2720 - (World.cpp:160): World 610: Transport_Tirisfal _Vengeance_Landing has no WDT file!
+2720 - (World.cpp:160): World 612: Transport_Menethil_Valgarde has no WDT file!
+2720 - (World.cpp:160): World 613: Transport_Orgrimmar_Warsong_Hold has no WDT file!
+2720 - (World.cpp:160): World 614: Transport_Stormwind_Valiance_Keep has no WDT file!
+2720 - (World.cpp:160): World 620: Transport_Moa'ki_Unu'pe has no WDT file!
+2720 - (World.cpp:160): World 621: Transport_Moa'ki_Kamagua has no WDT file!
+2720 - (World.cpp:160): World 622: Transport192241 has no WDT file!
+2721 - (World.cpp:160): World 623: Transport192242 has no WDT file!
+2721 - (World.cpp:160): World 641: Transport_AllianceAirshipBG has no WDT file!
+2721 - (World.cpp:160): World 642: Transport_HordeAirshipBG has no WDT file!
+2739 - (World.cpp:160): World 647: Transport_Orgrimmar_to_Thunderbluff has no WDT file!
+2740 - (World.cpp:160): World 672: Transport197347 has no WDT file!
+2740 - (World.cpp:160): World 673: Transport197348 has no WDT file!
+2740 - (World.cpp:160): World 712: Transport197349 has no WDT file!
+2740 - (World.cpp:160): World 713: Transport197350 has no WDT file!
+2740 - (World.cpp:160): World 718: Transport201834 has no WDT file!
+2768 - (Noggit.cpp:525): [Debug] Entering Main Loop
+2840 - (Video.cpp:83): [Debug] resize(1280, 720);
+19494 - (World.cpp:246): [Debug] Loading world "Azeroth".
+28989 - (MapTile.cpp:56): Opening tile 29, 34 ("World\Maps\Azeroth\Azeroth_29_34.adt") from MPQ.
+29121 - (MapTile.cpp:304): [Debug] Done loading tile 29,34.
+29121 - (Model.cpp:88): [Debug] Unloading model "interface\glues\models\ui_mainmenu\ui_mainmenu.m2".
+29168 - (Video.cpp:227): [Error] OpenGL: (at Liquid::draw:: after the draw list): GL_INVALID_ENUM
+29219 - (MapTile.cpp:56): Opening tile 27, 32 ("World\Maps\Azeroth\Azeroth_27_32.adt") from MPQ.
+29318 - (MapTile.cpp:304): [Debug] Done loading tile 27,32.
+29343 - (MapTile.cpp:56): Opening tile 28, 32 ("World\Maps\Azeroth\Azeroth_28_32.adt") from MPQ.
+29823 - (MapTile.cpp:304): [Debug] Done loading tile 28,32.
+29848 - (MapTile.cpp:56): Opening tile 29, 32 ("World\Maps\Azeroth\Azeroth_29_32.adt") from MPQ.
+30117 - (MapTile.cpp:304): [Debug] Done loading tile 29,32.
+30152 - (MapTile.cpp:56): Opening tile 30, 32 ("World\Maps\Azeroth\Azeroth_30_32.adt") from MPQ.
+30323 - (MapTile.cpp:304): [Debug] Done loading tile 30,32.
+30341 - (MapTile.cpp:56): Opening tile 27, 33 ("World\Maps\Azeroth\Azeroth_27_33.adt") from MPQ.
+30441 - (MapTile.cpp:304): [Debug] Done loading tile 27,33.
+30457 - (MapTile.cpp:56): Opening tile 28, 33 ("World\Maps\Azeroth\Azeroth_28_33.adt") from MPQ.
+30585 - (MapTile.cpp:304): [Debug] Done loading tile 28,33.
+30600 - (MapTile.cpp:56): Opening tile 29, 33 ("World\Maps\Azeroth\Azeroth_29_33.adt") from MPQ.
+30680 - (MapTile.cpp:304): [Debug] Done loading tile 29,33.
+30709 - (MapTile.cpp:56): Opening tile 30, 33 ("World\Maps\Azeroth\Azeroth_30_33.adt") from MPQ.
+30767 - (MapTile.cpp:304): [Debug] Done loading tile 30,33.
+30773 - (MapTile.cpp:56): Opening tile 27, 34 ("World\Maps\Azeroth\Azeroth_27_34.adt") from MPQ.
+30876 - (MapTile.cpp:304): [Debug] Done loading tile 27,34.
+30899 - (MapTile.cpp:56): Opening tile 28, 34 ("World\Maps\Azeroth\Azeroth_28_34.adt") from MPQ.
+30980 - (MapTile.cpp:304): [Debug] Done loading tile 28,34.
+30987 - (MapTile.cpp:56): Opening tile 30, 34 ("World\Maps\Azeroth\Azeroth_30_34.adt") from MPQ.
+31198 - (MapTile.cpp:304): [Debug] Done loading tile 30,34.
+31200 - (MapTile.cpp:56): Opening tile 27, 35 ("World\Maps\Azeroth\Azeroth_27_35.adt") from MPQ.
+31291 - (MapTile.cpp:304): [Debug] Done loading tile 27,35.
+31292 - (MapTile.cpp:56): Opening tile 28, 35 ("World\Maps\Azeroth\Azeroth_28_35.adt") from MPQ.
+31385 - (MapTile.cpp:304): [Debug] Done loading tile 28,35.
+31386 - (MapTile.cpp:56): Opening tile 29, 35 ("World\Maps\Azeroth\Azeroth_29_35.adt") from MPQ.
+31479 - (MapTile.cpp:304): [Debug] Done loading tile 29,35.
+31497 - (MapTile.cpp:56): Opening tile 30, 35 ("World\Maps\Azeroth\Azeroth_30_35.adt") from MPQ.
+31596 - (MapTile.cpp:304): [Debug] Done loading tile 30,35.
+45414 - (MapTile.cpp:56): Opening tile 27, 31 ("World\Maps\Azeroth\Azeroth_27_31.adt") from MPQ.
+45503 - (MapTile.cpp:304): [Debug] Done loading tile 27,31.
+45539 - (MapTile.cpp:56): Opening tile 28, 31 ("World\Maps\Azeroth\Azeroth_28_31.adt") from MPQ.
+45698 - (MapTile.cpp:304): [Debug] Done loading tile 28,31.
+45733 - (MapTile.cpp:56): Opening tile 29, 31 ("World\Maps\Azeroth\Azeroth_29_31.adt") from MPQ.
+45853 - (MapTile.cpp:304): [Debug] Done loading tile 29,31.
+45886 - (MapTile.cpp:56): Opening tile 30, 31 ("World\Maps\Azeroth\Azeroth_30_31.adt") from MPQ.
+46021 - (MapTile.cpp:304): [Debug] Done loading tile 30,31.
+139818 - (MapTile.cpp:56): Opening tile 26, 34 ("World\Maps\Azeroth\Azeroth_26_34.adt") from MPQ.
+139908 - (MapTile.cpp:304): [Debug] Done loading tile 26,34.
+139909 - (MapTile.cpp:56): Opening tile 26, 35 ("World\Maps\Azeroth\Azeroth_26_35.adt") from MPQ.
+140003 - (MapTile.cpp:304): [Debug] Done loading tile 26,35.
+140005 - (MapTile.cpp:56): Opening tile 26, 36 ("World\Maps\Azeroth\Azeroth_26_36.adt") from MPQ.
+140101 - (MapTile.cpp:304): [Debug] Done loading tile 26,36.
+140102 - (MapTile.cpp:56): Opening tile 27, 36 ("World\Maps\Azeroth\Azeroth_27_36.adt") from MPQ.
+140202 - (MapTile.cpp:304): [Debug] Done loading tile 27,36.
+140203 - (MapTile.cpp:56): Opening tile 28, 36 ("World\Maps\Azeroth\Azeroth_28_36.adt") from MPQ.
+140300 - (MapTile.cpp:304): [Debug] Done loading tile 28,36.
+142304 - (MapTile.cpp:56): Opening tile 27, 37 ("World\Maps\Azeroth\Azeroth_27_37.adt") from MPQ.
+142410 - (MapTile.cpp:304): [Debug] Done loading tile 27,37.
+142411 - (MapTile.cpp:56): Opening tile 28, 37 ("World\Maps\Azeroth\Azeroth_28_37.adt") from MPQ.
+142514 - (MapTile.cpp:304): [Debug] Done loading tile 28,37.
+142873 - (MapTile.cpp:56): Opening tile 26, 31 ("World\Maps\Azeroth\Azeroth_26_31.adt") from MPQ.
+142967 - (MapTile.cpp:304): [Debug] Done loading tile 26,31.
+142968 - (MapTile.cpp:56): Opening tile 26, 32 ("World\Maps\Azeroth\Azeroth_26_32.adt") from MPQ.
+143060 - (MapTile.cpp:304): [Debug] Done loading tile 26,32.
+143061 - (MapTile.cpp:56): Opening tile 26, 33 ("World\Maps\Azeroth\Azeroth_26_33.adt") from MPQ.
+143156 - (MapTile.cpp:304): [Debug] Done loading tile 26,33.
+150583 - (MapTile.cpp:56): Opening tile 29, 36 ("World\Maps\Azeroth\Azeroth_29_36.adt") from MPQ.
+150679 - (MapTile.cpp:304): [Debug] Done loading tile 29,36.
+152907 - (MapTile.cpp:56): Opening tile 25, 33 ("World\Maps\Azeroth\Azeroth_25_33.adt") from MPQ.
+153014 - (MapTile.cpp:304): [Debug] Done loading tile 25,33.
+153015 - (MapTile.cpp:56): Opening tile 25, 34 ("World\Maps\Azeroth\Azeroth_25_34.adt") from MPQ.
+153114 - (MapTile.cpp:304): [Debug] Done loading tile 25,34.
+153115 - (MapTile.cpp:56): Opening tile 25, 35 ("World\Maps\Azeroth\Azeroth_25_35.adt") from MPQ.
+153213 - (MapTile.cpp:304): [Debug] Done loading tile 25,35.
+153215 - (MapTile.cpp:56): Opening tile 25, 36 ("World\Maps\Azeroth\Azeroth_25_36.adt") from MPQ.
+153312 - (MapTile.cpp:304): [Debug] Done loading tile 25,36.
+163777 - (TextureManager.cpp:17): [Debug] Still in the texture manager:
+- creature\elementalearth\watermist.blp 
+- creature\felbat\batskin01.blp 
+- creature\felbat\batskin02.blp 
+- creature\fireelemental\ember.blp 
+- creature\fireelemental\glowball.blp 
+- creature\infernal\flame01.blp 
+- dungeons\textures\brian\excavation\excavationtentroll.blp 
+- dungeons\textures\brian\ruinedtower\humanguardbanner_06.blp
+- dungeons\textures\brian\ruinedtower\tower_base_01.blp
+- dungeons\textures\brian\ruinedtower\tower_broken.blp
+- dungeons\textures\brian\ruinedtower\tower_exfloor_01.blp
+- dungeons\textures\brian\ruinedtower\tower_exfloor_02.blp
+- dungeons\textures\brian\ruinedtower\tower_exwall_01.blp
+- dungeons\textures\brian\ruinedtower\tower_exwall_03.blp
+- dungeons\textures\brian\ruinedtower\tower_side_01.blp
+- dungeons\textures\brian\ruinedtower\tower_side_03.blp
+- dungeons\textures\brian\ruinedtower\tower_window_01.blp
+- dungeons\textures\brick\jacryptbrick01.blp
+- dungeons\textures\brick\jacryptbrick04.blp
+- dungeons\textures\brick\jacryptbrick05.blp
+- dungeons\textures\brick\jacryptbrick06.blp
+- dungeons\textures\brick\jacryptbrick07.blp
+- dungeons\textures\brick\jacryptbrick08.blp
+- dungeons\textures\brick\mm_duskwood_brick_01.blp
+- dungeons\textures\carlo\carnosaur copy.blp 
+- dungeons\textures\ceiling\bm_shdwfang_wood_clng_01.blp
+- dungeons\textures\ceiling\mm_westfall_int_ceiling_02.blp
+- dungeons\textures\combos\mm_inn_combo_01.blp
+- dungeons\textures\deadmine\stu_minebeam_01.blp
+- dungeons\textures\decoration\bearskinrug01.blp 
+- dungeons\textures\decoration\jlo_udercity_curtains.blp 
+- dungeons\textures\decoration\jlo_undeadzigg_chain.blp 
+- dungeons\textures\decoration\mm_strmwnd_int_furniture_01.blp 
+- dungeons\textures\decoration\mm_westfall_int_furniture_01.blp
+- dungeons\textures\decoration\mm_wroughtiron_01.blp
+- dungeons\textures\devices\mm_chain_01.blp 
+- dungeons\textures\devices\mm_clockface_01.blp
+- dungeons\textures\devices\mm_cork_01.blp
+- dungeons\textures\devices\mm_stone_tabletop_01.blp
+- dungeons\textures\doodads\stormwindbarrel.blp
+- dungeons\textures\doodads\stormwindbarrel.blp 
+- dungeons\textures\doodads\stormwindcrate01.blp
+- dungeons\textures\doodads\stormwindcrate01.blp 
+- dungeons\textures\floor\bm_shdwfang_cobblestone_01.blp
+- dungeons\textures\floor\bm_shdwfang_hallcarpet_01.blp
+- dungeons\textures\floor\bm_shdwfang_hallfloor_01.blp
+- dungeons\textures\floor\bm_shdwfang_int_stnflr01.blp
+- dungeons\textures\floor\bm_shdwfang_int_wdfloor_01.blp
+- dungeons\textures\floor\bm_shdwfang_plainwood_01.blp
+- dungeons\textures\floor\bm_shdwfang_stonewood_01.blp
+- dungeons\textures\floor\bm_shdwfang_woodplanks_01.blp
+- dungeons\textures\floor\jacryptfloor01.blp
+- dungeons\textures\floor\mm_cavefloor_03.blp
+- dungeons\textures\floor\mm_duskwood_stonefloor_01.blp
+- dungeons\textures\floor\mm_duskwood_wood_floor_01.blp
+- dungeons\textures\floor\mm_mineplanks_01.blp
+- dungeons\textures\floor\mm_ogrmnd_floor_01.blp
+- dungeons\textures\floor\mm_wf_blcksmth_floor_01.blp
+- dungeons\textures\metal\caportcullismetal.blp
+- dungeons\textures\metal\caportcullismetal.blp 
+- dungeons\textures\metal\mm_copper_01.blp
+- dungeons\textures\metal\mm_minerail_01.blp
+- dungeons\textures\metal\mm_wf_metal_plating_01.blp
+- dungeons\textures\metal\mm_wf_metal_trims_01.blp
+- dungeons\textures\rock\jlo_mcave_ceiling.blp
+- dungeons\textures\rock\jlo_mcave_crystal.blp
+- dungeons\textures\rock\jlo_mcave_ground.blp
+- dungeons\textures\rock\jlo_mcave_ground2.blp
+- dungeons\textures\rock\jlo_mcave_ledge2.blp
+- dungeons\textures\rock\jlo_mcave_pillar.blp
+- dungeons\textures\rock\jlo_mcave_pit.blp
+- dungeons\textures\rock\jlo_mcave_rock.blp
+- dungeons\textures\rock\jlo_mcave_trans.blp
+- dungeons\textures\rock\jlo_mcave_wall.blp
+- dungeons\textures\rock\jlo_mcave_walla.blp
+- dungeons\textures\rock\jlo_mcaveex_cave.blp
+- dungeons\textures\rock\jlo_mcaveex_crystalrock.blp
+- dungeons\textures\rock\jlo_mcaveex_rock.blp
+- dungeons\textures\rock\mm_cavewall_08.blp
+- dungeons\textures\rock\mm_cavewall_09.blp
+- dungeons\textures\rock\mm_minefront_01.blp
+- dungeons\textures\rock\mm_minerocks_01.blp
+- dungeons\textures\roof\jacryptceiling.blp
+- dungeons\textures\roof\jacryptpillar.blp
+- dungeons\textures\roof\jacryptshingles.blp
+- dungeons\textures\roof\mm_aduskwood_roof_01.blp
+- dungeons\textures\roof\mm_duskwood_roof_01.blp
+- dungeons\textures\roof\mm_duskwood_roof_02.blp
+- dungeons\textures\roof\mm_redshingles_ledge_01.blp
+- dungeons\textures\roof\mm_strmwnd_wroof_01.blp
+- dungeons\textures\stairs\jacryptstair.blp
+- dungeons\textures\trim\bm_shdwfng_railings.blp
+- dungeons\textures\trim\bm_shdwfng_table_01.blp
+- dungeons\textures\trim\cagreat_wall_trim_01.blp
+- dungeons\textures\trim\duskwood_woodtrim_burnt01.blp
+- dungeons\textures\trim\jacryptbrick02.blp
+- dungeons\textures\trim\jacryptbrick03.blp
+- dungeons\textures\trim\mm_duskwood_stonebase_01.blp
+- dungeons\textures\trim\mm_duskwood_supports_01.blp
+- dungeons\textures\trim\mm_duskwood_supports_01.blp 
+- dungeons\textures\trim\mm_duskwood_woodtrim_01.blp
+- dungeons\textures\trim\mm_duskwood_woodtrim_01.blp 
+- dungeons\textures\trim\mm_westfall_stonebase_01.blp
+- dungeons\textures\trim\mm_westfall_stonetrim 01.blp
+- dungeons\textures\trim\mm_westfall_supports_01.blp
+- dungeons\textures\trim\mm_wf_chimney_top_01x.blp
+- dungeons\textures\trim\mm_wf_metal_floor_border_01x.blp
+- dungeons\textures\trim\rusty_chain01.blp
+- dungeons\textures\walls\bm_shdwfang_int_rubble_01.blp
+- dungeons\textures\walls\bm_shdwfang_int_rubble_01.blp 
+- dungeons\textures\walls\bm_shdwfang_int_stnwood_02.blp
+- dungeons\textures\walls\bm_shdwfang_int_stonewall_02.blp
+- dungeons\textures\walls\bm_shdwfang_largestones_01.blp
+- dungeons\textures\walls\bm_shdwfang_outergate_01.blp
+- dungeons\textures\walls\bm_shdwfang_outerwall_01.blp
+- dungeons\textures\walls\bm_shdwfang_outerwall_01.blp 
+- dungeons\textures\walls\bm_shdwfang_outerwall_03.blp
+- dungeons\textures\walls\bm_shdwfang_outerwall_04.blp
+- dungeons\textures\walls\bm_shdwfang_outerwall_04.blp 
+- dungeons\textures\walls\cagreat_wall_stone_01.blp
+- dungeons\textures\walls\cagreat_wall_stone_02.blp
+- dungeons\textures\walls\duskwood_int_wall_burnt01.blp
+- dungeons\textures\walls\mm_a_dw_wall_02.blp
+- dungeons\textures\walls\mm_aduskwood_int_wall_01.blp
+- dungeons\textures\walls\mm_aduskwood_wall_01.blp
+- dungeons\textures\walls\mm_aduskwood_wall_03.blp
+- dungeons\textures\walls\mm_cellar_wall_01.blp
+- dungeons\textures\walls\mm_duskwood_clocktower_01.blp
+- dungeons\textures\walls\mm_duskwood_int_wall_01.blp
+- dungeons\textures\walls\mm_duskwood_wall_01.blp
+- dungeons\textures\walls\mm_strmwnd_wall_02.blp
+- dungeons\textures\walls\mm_strmwnd_wall_04.blp
+- dungeons\textures\walls\mm_westfall_wall_02.blp
+- dungeons\textures\walls\mm_westfall_wall_03.blp
+- dungeons\textures\walls\mm_wf_barracks_wall_02.blp
+- dungeons\textures\windows\bm_shdwfang_lordwin_01.blp
+- dungeons\textures\windows\bm_shdwfang_wnd_ext_01.blp
+- dungeons\textures\windows\mm_aduskwood_wnd_int__01.blp
+- dungeons\textures\windows\mm_duskwood_wnd_ext__01.blp
+- dungeons\textures\windows\mm_duskwood_wnd_int__01.blp
+- dungeons\textures\windows\mm_westfall_wnd_ext__01.blp
+- dungeons\textures\windows\mm_westfall_wnd_int__01.blp
+- dungeons\textures\wood\elwynnfence.blp 
+- dungeons\textures\wood\jacryptbeamcap.blp
+- dungeons\textures\wood\mm_beam_end__01x.blp 
+- dungeons\textures\wood\mm_beam_side__01x.blp 
+- dungeons\textures\wood\mm_benchcombo.blp 
+- dungeons\textures\wood\mm_cask_side_01.blp
+- dungeons\textures\wood\mm_minebeam_01.blp
+- dungeons\textures\wood\mm_minebeam_03.blp
+- dungeons\textures\wood\mm_minebeam_web_02.blp
+- dungeons\textures\wood\mm_minewall_support_02.blp
+- dungeons\textures\wood\mm_minewall_support_03.blp
+- environments\stars\stars.blp 
+- environments\stars\stars2.blp 
+- interface\buttons\checkbuttonglow.blp
+- interface\buttons\glowstar.blp 
+- interface\buttons\ui-checkbox-check.blp
+- interface\buttons\ui-checkbox-up.blp
+- interface\buttons\ui-dialogbox-button-disabled.blp
+- interface\buttons\ui-dialogbox-button-down.blp
+- interface\buttons\ui-dialogbox-button-up.blp
+- interface\buttons\ui-panel-minimizebutton-down.blp
+- interface\buttons\ui-panel-minimizebutton-up.blp
+- interface\buttons\ui-rotationleft-button-down.blp
+- interface\buttons\ui-rotationleft-button-up.blp
+- interface\buttons\ui-scrollbar-knob.blp
+- interface\buttons\ui-scrollbar-scrolldownbutton-down.blp
+- interface\buttons\ui-scrollbar-scrolldownbutton-up.blp
+- interface\buttons\ui-scrollbar-scrollupbutton-down.blp
+- interface\buttons\ui-scrollbar-scrollupbutton-up.blp
+- interface\buttons\ui-sliderbar-background.blp
+- interface\buttons\ui-sliderbar-border.blp
+- interface\buttons\ui-sliderbar-button-horizontal.blp
+- interface\buttons\ui-spellbookicon-nextpage-down.blp
+- interface\buttons\ui-spellbookicon-nextpage-up.blp
+- interface\buttons\ui-spellbookicon-prevpage-down.blp
+- interface\buttons\ui-spellbookicon-prevpage-up.blp
+- interface\dialogframe\ui-dialogbox-background-dark.blp
+- interface\glues\models\ui_scourge\cemetery01.blp 
+- interface\glues\models\ui_scourge\silverpinetree01canopyskin.blp 
+- interface\glues\models\ui_scourge\silverpinetree01trunkskin.blp 
+- interface\glues\models\ui_scourge\warningtreeweb.blp 
+- interface\icons\ability_creature_poison_06.blp
+- interface\icons\ability_mage_missilebarrage.blp
+- interface\icons\inv_elemental_mote_air01.blp
+- interface\icons\inv_elemental_mote_earth01.blp
+- interface\icons\inv_elemental_primal_water.blp
+- interface\icons\inv_enchant_shardbrilliantsmall.blp
+- interface\icons\inv_feather_16.blp
+- interface\icons\inv_gizmo_hardenedadamantitetube.blp
+- interface\icons\inv_misc_enggizmos_swissarmy.blp
+- interface\icons\inv_misc_map07.blp
+- interface\icons\inv_misc_net_01.blp
+- interface\icons\inv_misc_questionmark.blp
+- interface\icons\inv_potion_83.blp
+- interface\icons\inv_sigil_thorim.blp
+- interface\tooltips\ui-tooltip-border.blp
+- item\objectcomponents\shield\shield_crest_b_01gold.blp 
+- item\objectcomponents\weapon\armorreflect3.blp 
+- item\objectcomponents\weapon\armorreflectlantern.blp 
+- item\objectcomponents\weapon\flamelicksmall.blp 
+- item\objectcomponents\weapon\misc_1h_lantern_b_01silver.blp 
+- item\objectcomponents\weapon\polearm_2h_bladed_b_01black.blp 
+- particles\flame02.blp 
+- textures\elwynn\battleglade\skulls\battlegladeskulldarkgreen.blp 
+- tileset\alteracmtns\alteracdirtbase02.blp
+- tileset\alteracmtns\alteracdirtbase02.blp 
+- tileset\alteracmtns\alteracgrassbase2.blp
+- tileset\alteracmtns\alteracgrasshighlight02.blp
+- tileset\alteracmtns\alteracgrasshighlight03.blp
+- tileset\alteracmtns\alteracrockbase.blp
+- tileset\alteracmtns\alteracrockroadbase.blp
+- tileset\duskwood\duskwooddirt.blp
+- tileset\duskwood\duskwooddirt.blp 
+- tileset\generic\black.blp
+- tileset\generic\underwatergrass02.blp
+- tileset\generic\underwaterrock01.blp
+- tileset\generic\underwaterrock02.blp
+- tileset\silverpine\silverpineblight.blp
+- tileset\silverpine\silverpinecropbase.blp
+- tileset\silverpine\silverpinedirt.blp
+- tileset\silverpine\silverpinegrass.blp
+- tileset\silverpine\silverpinegrassflowers.blp
+- tileset\silverpine\silverpineroad.blp
+- tileset\silverpine\silverpinerock.blp
+- tileset\silverpine\silverpineshore.blp
+- tileset\westwood\westfallcropburned.blp
+- tileset\wetlands\wetlandsdirt01.blp
+- world\azeroth\bootybay\passivedoodad\bootyentrance\elwynnlantern01.blp 
+- world\azeroth\bootybay\passivedoodad\bootyentrance\gypsydoor_01.blp 
+- world\azeroth\bootybay\passivedoodad\bootyentrance\mm_minebeam_02.blp
+- world\azeroth\burningsteppes\passivedoodads\trees\ashedtreebranch01_128.blp 
+- world\azeroth\burningsteppes\passivedoodads\trees\ashedtreebranch_white.blp 
+- world\azeroth\burningsteppes\passivedoodads\trees\burningmidtree01trunk.blp 
+- world\azeroth\burningsteppes\passivedoodads\trees\burningmidtree02trunk.blp 
+- world\azeroth\duskwood\buildings\gnolltent\gnolltent02skin.blp 
+- world\azeroth\duskwood\buildings\gnolltent\gnolltent03skin.blp 
+- world\azeroth\duskwood\passivedoodads\darkshireentrance\bars.blp 
+- world\azeroth\duskwood\passivedoodads\darkshireentrance\cemetarygate.blp 
+- world\azeroth\duskwood\passivedoodads\duskwoodbarn\westfallbasestone.blp 
+- world\azeroth\duskwood\passivedoodads\duskwoodscarecrow\duskscarecrow01.blp 
+- world\azeroth\duskwood\passivedoodads\duskwoodstraw\duskwoodstraw.blp 
+- world\azeroth\duskwood\passivedoodads\duskwoodwheat\duskwoodwheatfield02.blp 
+- world\azeroth\duskwood\passivedoodads\fence\westfallfence.blp 
+- world\azeroth\duskwood\passivedoodads\irongate\barssmall.blp 
+- world\azeroth\duskwood\passivedoodads\irongate\cemetarygate.blp 
+- world\azeroth\duskwood\passivedoodads\irongate\cross.blp 
+- world\azeroth\duskwood\passivedoodads\irongate\facade.blp 
+- world\azeroth\duskwood\passivedoodads\irongate\vines.blp 
+- world\azeroth\duskwood\passivedoodads\straw\duskwoodstraw02.blp 
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone05.blp 
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone06.blp 
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone07.blp 
+- world\azeroth\duskwood\passivedoodads\tombs\tombstonemonument02.blp 
+- world\azeroth\duskwood\passivedoodads\tombs\tombstonemonument03.blp 
+- world\azeroth\duskwood\passivedoodads\trees\duskwoodtree01_web.blp 
+- world\azeroth\elwynn\buildings\distillery\winebarrel_side.blp 
+- world\azeroth\elwynn\passivedoodads\battlegladeskullhuman1\battlegladeskull02.blp 
+- world\azeroth\elwynn\passivedoodads\detail\elwynnrock1\elwynnrock1skin.blp 
+- world\azeroth\elwynn\passivedoodads\detail\elwynnrock2\elwynnrock2skin.blp 
+- world\azeroth\elwynn\passivedoodads\elwynnfences\stonefencepillar.blp 
+- world\azeroth\elwynn\passivedoodads\elwynnfences\stonefencewall.blp 
+- world\azeroth\elwynn\passivedoodads\jars\deadmines_comp.blp 
+- world\azeroth\elwynn\passivedoodads\lamppost\glow32.blp 
+- world\azeroth\elwynn\passivedoodads\pick\pick.blp 
+- world\azeroth\elwynn\passivedoodads\pick\shovel.blp 
+- world\azeroth\elwynn\passivedoodads\pick\shoveltop.blp 
+- world\azeroth\elwynn\passivedoodads\skeleton\battlegladeskulldarksat.blp 
+- world\azeroth\elwynn\passivedoodads\skeleton\battlegladespinedarksat64.blp 
+- world\azeroth\elwynn\passivedoodads\smalldock\elwynndocksupport01.blp 
+- world\azeroth\elwynn\passivedoodads\smalldock\flamelicksmallblue.blp 
+- world\azeroth\elwynn\passivedoodads\trees\stumps\elwynntreestump01.blp 
+- world\azeroth\karazahn\passivedoodads\bonfire\flamelicksmallblue.blp 
+- world\azeroth\redridge\passivedoodads\dockpieces\redridgedockplank01.blp 
+- world\azeroth\stranglethorn\passivedoodads\gemminecar01\gemminecar_front.blp 
+- world\azeroth\stranglethorn\passivedoodads\gemminecar01\lamp.blp 
+- world\azeroth\stranglethorn\passivedoodads\gemminecar01\wheel.blp 
+- world\azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar_dark.blp 
+- world\azeroth\stranglethorn\passivedoodads\gemminecar02\rock01.blp 
+- world\azeroth\swamposorrow\passivedoodads\plants\plant03_roots.blp 
+- world\azeroth\swamposorrow\passivedoodads\plants\swamp01_flower.blp 
+- world\azeroth\swamposorrow\passivedoodads\plants\westfallflower01.blp 
+- world\azeroth\swamposorrow\passivedoodads\swampboats\battlegladeskull04green.blp 
+- world\azeroth\swamposorrow\passivedoodads\waterhuts\waterhutall01.blp 
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedcow03.blp 
+- world\azeroth\theblastedlands\passivedoodads\bones\skull03.blp 
+- world\azeroth\theblastedlands\passivedoodads\bones\skull04.blp 
+- world\azeroth\westfall\passivedoodads\barrel\bar_but_hay_har_car.blp 
+- world\azeroth\westfall\passivedoodads\deadcow\cow.blp 
+- world\azeroth\westfall\passivedoodads\deadmule\mule.blp 
+- world\azeroth\westfall\passivedoodads\grindstone\sandrock.blp 
+- world\azeroth\westfall\passivedoodads\grindstone\wood01.blp 
+- world\azeroth\westfall\passivedoodads\grindstone\wood02.blp 
+- world\azeroth\westfall\passivedoodads\lampdeadmines\deadmineslanternmount02.blp 
+- world\azeroth\westfall\passivedoodads\lamppost\dusksignwood02.blp 
+- world\azeroth\westfall\passivedoodads\lamppost\elwynnroadsignstone01.blp 
+- world\azeroth\westfall\passivedoodads\rakecart\westfallwagonwheel01.blp 
+- world\azeroth\westfall\passivedoodads\rugracks\deadmineswood01.blp 
+- world\azeroth\westfall\passivedoodads\utensils\deadminesstein01.blp 
+- world\azeroth\westfall\passivedoodads\utensils\deadminesstein02.blp 
+- world\azeroth\westfall\passivedoodads\westfallskeleton\battlegladespinelight.blp 
+- world\azeroth\westfall\passivedoodads\westfalltable\westfallplanks.blp 
+- world\critter\birds\crow03.blp 
+- world\critter\fish\fishblue.blp 
+- world\dungeon\cavernsoftime\passivedoodads\darkportal\glowball.blp 
+- world\dungeon\goldshireinn\innbedcanopy\mm_canopy_opt.blp 
+- world\dungeon\goldshireinn\innbedcanopy\mm_wood_trim_02x.blp 
+- world\dungeon\goldshireinn\innchandelier\mm_candle_01.blp 
+- world\dungeon\goldshireinn\innchandelier\mm_chandelier_side_01.blp 
+- world\dungeon\goldshireinn\innpillow\mm_pillow_opt.blp 
+- world\environment\building\general\murloc huts\texture\brian\waterhutseeweed01.blp 
+- world\environment\building\stranglethorn\humantents\textures\brian\humantentsdoor.blp 
+- world\environment\building\swampofsorrow\lostonehut\texture\brian\losthutcover.blp 
+- world\environment\doodad\swampofsorrows\dock\texture\brian\swampdocksupport.blp 
+- world\environment\doodad\swampofsorrows\plants\reeds\texture\swampreeds01a.blp 
+- world\environment\doodad\westwood\grainsilo\textures\westfallweatheredbarn01roofskin.blp
+- world\environment\doodad\westwood\grainsilo\textures\westfallweatheredbarn01roofskin.blp 
+- world\environment\doodad\westwood\grainsilo\textures\westfallweatheredbarn01skin.blp
+- world\environment\doodad\westwood\grainsilo\textures\westfallweatheredbarn01skin.blp 
+- world\expansion01\doodads\hellfirepeninsula\supplies\crates02sides.blp 
+- world\expansion02\doodads\dalaran\dome_caustic.blp 
+- world\expansion02\doodads\dalaran\dome_ring.blp 
+- world\expansion02\doodads\dalaran\dome_ring_alpha.blp 
+- world\expansion02\doodads\dalaran\dome_smoke01.blp 
+- world\expansion02\doodads\dalaran\dome_smoke02.blp 
+- world\expansion02\doodads\dalaran\dome_smoke03.blp 
+- world\expansion02\doodads\dalaran\dome_waves_alpha.blp 
+- world\expansion02\doodads\dalaran\vertical_gradient.blp 
+- world\generic\activedoodads\instanceportal\dust6.blp 
+- world\generic\buildings\humantentmedium\humantentspike.blp 
+- world\generic\buildings\humantentmedium\humantentsrope.blp 
+- world\generic\buildings\humantentmedium\humantentstop.blp 
+- world\generic\dwarf\passive doodads\chairs\highchair_01.blp 
+- world\generic\dwarf\passive doodads\excavationcrane\caverope01.blp 
+- world\generic\dwarf\passive doodads\excavationcrane\minecavepulley01_64.blp 
+- world\generic\dwarf\passive doodads\excavationropestake\rope01.blp 
+- world\generic\dwarf\passive doodads\excavationropestake\stake.blp 
+- world\generic\dwarf\passive doodads\excavationtentpavillionruined\excavationwood.blp 
+- world\generic\dwarf\passive doodads\excavationtents\excavationtentsruined.blp 
+- world\generic\dwarf\passive doodads\gunracks\dwarvenrifle01.blp 
+- world\generic\dwarf\passive doodads\gunracks\dwarventargetrangeboard.blp 
+- world\generic\dwarf\passive doodads\lanterns\gypsywagon.blp 
+- world\generic\dwarf\passive doodads\lanterns\hanginglantern01.blp 
+- world\generic\dwarf\passive doodads\sharpeningwheel\bar.blp 
+- world\generic\dwarf\passive doodads\sharpeningwheel\middlebar.blp 
+- world\generic\dwarf\passive doodads\tavernstuff\grainsac01.blp 
+- world\generic\goblin\passivedoodads\goblinmachinery\bottlegreen.blp 
+- world\generic\goblin\passivedoodads\goblinmachinery\deadminehangnets.blp 
+- world\generic\goblin\passivedoodads\goblinrocketcarts\flowersack01.blp 
+- world\generic\goblin\passivedoodads\goblinrocketcarts\westfallwagonwood copy.blp 
+- world\generic\human\passive doodads\anchor\dredgechain.blp 
+- world\generic\human\passive doodads\animalheads\deerhead01.blp 
+- world\generic\human\passive doodads\animalheads\wildboarskin.blp 
+- world\generic\human\passive doodads\arches\tirisfallboradwalk.blp 
+- world\generic\human\passive doodads\armor\armorermisc.blp 
+- world\generic\human\passive doodads\armor\leatherandbootshuman.blp 
+- world\generic\human\passive doodads\artwork\azharapainting.blp 
+- world\generic\human\passive doodads\artwork\coastlinesunset.blp 
+- world\generic\human\passive doodads\artwork\silverpinepainting.blp 
+- world\generic\human\passive doodads\artwork\thousandneedlespainting.blp 
+- world\generic\human\passive doodads\artwork\zulamanpainting.blp 
+- world\generic\human\passive doodads\banners\shadowfangbanner01.blp 
+- world\generic\human\passive doodads\beds\mm_quilt_opt.blp 
+- world\generic\human\passive doodads\beerkegs\beerkegcombo.blp 
+- world\generic\human\passive doodads\benches\bench01.blp 
+- world\generic\human\passive doodads\books\books.blp 
+- world\generic\human\passive doodads\books\bookstack01.blp 
+- world\generic\human\passive doodads\bookshelves\bookshelf.blp 
+- world\generic\human\passive doodads\bottles\glass2bottle02.blp 
+- world\generic\human\passive doodads\buckets\dredgemetal.blp 
+- world\generic\human\passive doodads\candelabras\candelabra01.blp 
+- world\generic\human\passive doodads\candelabras\glowwhite32.blp 
+- world\generic\human\passive doodads\cargonets\deadminehangnets02.blp 
+- world\generic\human\passive doodads\cauldrons\waterfallsteam.blp 
+- world\generic\human\passive doodads\chairs\medchair_01.blp 
+- world\generic\human\passive doodads\chairs\woodchair01.blp 
+- world\generic\human\passive doodads\cloth\clothstuff.blp 
+- world\generic\human\passive doodads\crates\graincratefull01.blp 
+- world\generic\human\passive doodads\dolls\woodendummy.blp 
+- world\generic\human\passive doodads\dredge\dredgewoodwheel.blp 
+- world\generic\human\passive doodads\flowers\flowerarrangements01.blp 
+- world\generic\human\passive doodads\food&utensils\cleaver_001.blp 
+- world\generic\human\passive doodads\food&utensils\haunchskin.blp 
+- world\generic\human\passive doodads\food&utensils\turkeyskin.blp 
+- world\generic\human\passive doodads\food\breadandcheese.blp 
+- world\generic\human\passive doodads\fountains\garden arch01.blp 
+- world\generic\human\passive doodads\fountains\stormwindarm.blp 
+- world\generic\human\passive doodads\fountains\stormwindchest.blp 
+- world\generic\human\passive doodads\fountains\stormwindfoundation01.blp 
+- world\generic\human\passive doodads\fountains\stormwindhead.blp 
+- world\generic\human\passive doodads\fountains\stormwindlady.blp 
+- world\generic\human\passive doodads\fountains\stormwindleg.blp 
+- world\generic\human\passive doodads\fountains\stormwindplan2.blp 
+- world\generic\human\passive doodads\fountains\stormwindside02.blp 
+- world\generic\human\passive doodads\goblets\goblet_01.blp 
+- world\generic\human\passive doodads\grainsilo05.blp 
+- world\generic\human\passive doodads\grainsilopost02.blp 
+- world\generic\human\passive doodads\gypsywagons\overhang copy.blp 
+- world\generic\human\passive doodads\hanginglanterns\lightglass02.blp 
+- world\generic\human\passive doodads\haypiles\sf_wood01.blp 
+- world\generic\human\passive doodads\lamps\glowgreen32.blp 
+- world\generic\human\passive doodads\lamps\silverpinelamppost01.blp 
+- world\generic\human\passive doodads\lamps\silverpinelampposttop01.blp 
+- world\generic\human\passive doodads\lanterns\elwynnlantern02.blp 
+- world\generic\human\passive doodads\lumberpiles\lumberpile01.blp 
+- world\generic\human\passive doodads\meat\alphameat02.blp 
+- world\generic\human\passive doodads\meat\meat03.blp 
+- world\generic\human\passive doodads\minemachine\minemachine.blp 
+- world\generic\human\passive doodads\minemachine\minemachinebelt.blp 
+- world\generic\human\passive doodads\miningtroughs\dredgewood.blp 
+- world\generic\human\passive doodads\mugs\mug_002.blp 
+- world\generic\human\passive doodads\mugs\mug_004.blp 
+- world\generic\human\passive doodads\mugs\mug_004_foam.blp 
+- world\generic\human\passive doodads\plates\plate_01.blp 
+- world\generic\human\passive doodads\pulleys\grainsilo03.blp
+- world\generic\human\passive doodads\pulleys\grainsilopost01.blp
+- world\generic\human\passive doodads\pulleys\grainsilorag01.blp
+- world\generic\human\passive doodads\pulleys\grainsilorag01.blp 
+- world\generic\human\passive doodads\pulleys\westfallbeam.blp
+- world\generic\human\passive doodads\ropes\ropecoil.blp 
+- world\generic\human\passive doodads\rugs\deadminesrug01.blp 
+- world\generic\human\passive doodads\rugs\deadminesrug02.blp 
+- world\generic\human\passive doodads\shack\doorsupport.blp 
+- world\generic\human\passive doodads\shack\woodside.blp 
+- world\generic\human\passive doodads\signposts\wornwoodsigns01.blp 
+- world\generic\human\passive doodads\tables\duskwoodfurniture01.blp 
+- world\generic\human\passive doodads\tables\mm_support_front_01x.blp 
+- world\generic\human\passive doodads\tables\mm_tabletop_01.blp 
+- world\generic\human\passive doodads\tables\shadowfangtable06.blp 
+- world\generic\human\passive doodads\vials\glass2bottle04.blp 
+- world\generic\human\passive doodads\vials\glassbottle04.blp 
+- world\generic\human\passive doodads\vials\iron04.blp 
+- world\generic\human\passive doodads\vials\ringalpha02.blp 
+- world\generic\human\passive doodads\vials\tube02.blp 
+- world\generic\human\passive doodads\vials\vial03.blp 
+- world\generic\human\passive doodads\vials\vial04.blp 
+- world\generic\human\passive doodads\vials\whiteringnoise128.blp 
+- world\generic\human\passive doodads\weapons&armor\blade_sword1h_01.blp 
+- world\generic\human\passive doodads\weapons&armor\handle_sword1h_01.blp 
+- world\generic\human\passive doodads\weapons&armor\waeponpage01.blp 
+- world\generic\human\passive doodads\westfallbeam01.blp 
+- world\generic\nightelf\passive doodads\magicalimplements\glow.blp 
+- world\generic\ogre\passive doodads\poodad\fly.blp 
+- world\generic\orc\passive doodads\animalskulls\tallstriderskull copy.blp 
+- world\generic\orc\passive doodads\animalskulls\tigerskull.blp 
+- world\generic\orc\passive doodads\bowls\woodenbowl01.blp 
+- world\generic\orc\passive doodads\bowls\woodenbowl02.blp 
+- world\generic\orc\passive doodads\feedingtroughs\feedtroph01.blp 
+- world\generic\orc\passive doodads\kodowagon\caveminecar_front.blp 
+- world\generic\orc\passive doodads\kodowagon\flowersack02_128.blp 
+- world\generic\orc\passive doodads\rugs\furrug01.blp 
+- world\generic\passivedoodads\barrel\barrel04dark2.blp 
+- world\generic\passivedoodads\barrel\westfallbarrel01skin.blp 
+- world\generic\passivedoodads\crate01\crates01sides.blp 
+- world\generic\passivedoodads\furniture\containers\crates01front.blp 
+- world\generic\passivedoodads\furniture\containers\crates01top.blp 
+- world\generic\passivedoodads\lights\candel_cave01.blp 
+- world\generic\passivedoodads\lights\candel_thread.blp 
+- world\generic\passivedoodads\lights\club_1h_torch_a_01.blp 
+- world\generic\passivedoodads\lights\gloworange32.blp 
+- world\generic\passivedoodads\lights\torch2.blp 
+- world\generic\passivedoodads\misc\minecars\caveminecar_detachedwheel.blp 
+- world\generic\passivedoodads\misc\minecars\caveminecar_side.blp 
+- world\generic\passivedoodads\misc\minecars\caveminecar_wheel.blp 
+- world\generic\passivedoodads\misc\minecars\gemminecar_side.blp 
+- world\generic\passivedoodads\misc\wheelbarrow\wheelbarrow_cave01_128.blp 
+- world\generic\passivedoodads\skeletons\bonelight.blp 
+- world\generic\passivedoodads\skeletons\skeletalhandlight.blp 
+- world\generic\passivedoodads\skeletons\skull01light.blp 
+- world\generic\passivedoodads\well\elwynnmiscbucketdark64.blp 
+- world\generic\passivedoodads\well\elwynnmiscrope02.blp 
+- world\generic\passivedoodads\well\elwynnmiscrope03.blp 
+- world\generic\passivedoodads\well\elwynnmiscwellwater.blp 
+- world\generic\passivedoodads\well\elwynnpillarwood01.blp 
+- world\generic\tauren\passive doodads\kites\taurenmisc01.blp 
+- world\generic\tauren\passive doodads\taurentravois\deadminefloornets4.blp 
+- world\generic\tauren\passive doodads\taurentravois\deadminenetswood.blp 
+- world\generic\troll\passive doodads\trollskullpile\skull01.blp 
+- world\generic\undead\passive doodads\batroost\batroost.blp 
+- world\generic\undead\passive doodads\meatwagon\meatwagon01.blp 
+- world\generic\undead\passive doodads\taxiflags\undead07.blp 
+- world\generic\undead\passive doodads\undercitychandeliers\undeadlantern01.blp 
+- world\goober\gunshop.blp 
+- world\kalimdor\kalidar\passivedoodads\kalidarharpynest\spine02.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\archerytargetdwarven01.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\archerytargethuman01.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\burnedgypsydoor_01.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\burnedgypsyroof_01.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\burnedgypsywagon.blp 
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\thunderblufftex_02.blp 
+- world\kalimdor\mulgore\passivedoodads\trees\aeriepeaksfir01trunkskin_3.blp 
+- world\kalimdor\stonetalon\passivedoodads\trees\stonetreebranch01_burnt.blp 
+- world\kalimdor\stonetalon\passivedoodads\trees\stonetreebranch01_burnt01.blp 
+- world\kalimdor\stonetalon\passivedoodads\trees\stonetreetrunk_burnt02.blp 
+- world\khazmodan\lochmodan\passivedoodads\dam\humanmaleskin.blp 
+- world\khazmodan\wetlands\passivedoodads\dragonmawgates\dragonmawgate_01.blp 
+- world\lordaeron\alteracmountains\passivedoodads\bushes\alteracbush02.blp 
+- world\lordaeron\alteracmountains\passivedoodads\opengraves\gravedirt01.blp 
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteracfir01canopyskin01.blp 
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractreebranch05a.blp 
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractrunk03.blp 
+- world\lordaeron\alteracmountains\passivedoodads\trees\ateracyellowbranch01.blp 
+- world\lordaeron\plagueland\passivedoodads\haystacks\lightposthaysacks.blp 
+- world\lordaeron\silverpine\passivedoodads\boardwalks\westfallbeam.blp 
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush01skin.blp 
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush02skin.blp 
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush03skin.blp 
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree02canopyskin.blp 
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetreestump01.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\palasadegatewood_purple.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\windmillmisc.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\windmillstone1.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\windmillstone2.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\windmillstone3.blp 
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\windmillstone4.blp 
+- world\scale\1_null.blp 
+- world\skillactivated\tradeskillenablers\vial05.blp 
+- xtextures\ocean\ocean_h.1.blp
+- xtextures\ocean\ocean_h.10.blp
+- xtextures\ocean\ocean_h.11.blp
+- xtextures\ocean\ocean_h.12.blp
+- xtextures\ocean\ocean_h.13.blp
+- xtextures\ocean\ocean_h.14.blp
+- xtextures\ocean\ocean_h.15.blp
+- xtextures\ocean\ocean_h.16.blp
+- xtextures\ocean\ocean_h.17.blp
+- xtextures\ocean\ocean_h.18.blp
+- xtextures\ocean\ocean_h.19.blp
+- xtextures\ocean\ocean_h.2.blp
+- xtextures\ocean\ocean_h.20.blp
+- xtextures\ocean\ocean_h.21.blp
+- xtextures\ocean\ocean_h.22.blp
+- xtextures\ocean\ocean_h.23.blp
+- xtextures\ocean\ocean_h.24.blp
+- xtextures\ocean\ocean_h.25.blp
+- xtextures\ocean\ocean_h.26.blp
+- xtextures\ocean\ocean_h.27.blp
+- xtextures\ocean\ocean_h.28.blp
+- xtextures\ocean\ocean_h.29.blp
+- xtextures\ocean\ocean_h.3.blp
+- xtextures\ocean\ocean_h.30.blp
+- xtextures\ocean\ocean_h.4.blp
+- xtextures\ocean\ocean_h.5.blp
+- xtextures\ocean\ocean_h.6.blp
+- xtextures\ocean\ocean_h.7.blp
+- xtextures\ocean\ocean_h.8.blp
+- xtextures\ocean\ocean_h.9.blp
+- xtextures\river\lake_a.1.blp
+- xtextures\river\lake_a.10.blp
+- xtextures\river\lake_a.11.blp
+- xtextures\river\lake_a.12.blp
+- xtextures\river\lake_a.13.blp
+- xtextures\river\lake_a.14.blp
+- xtextures\river\lake_a.15.blp
+- xtextures\river\lake_a.16.blp
+- xtextures\river\lake_a.17.blp
+- xtextures\river\lake_a.18.blp
+- xtextures\river\lake_a.19.blp
+- xtextures\river\lake_a.2.blp
+- xtextures\river\lake_a.20.blp
+- xtextures\river\lake_a.21.blp
+- xtextures\river\lake_a.22.blp
+- xtextures\river\lake_a.23.blp
+- xtextures\river\lake_a.24.blp
+- xtextures\river\lake_a.25.blp
+- xtextures\river\lake_a.26.blp
+- xtextures\river\lake_a.27.blp
+- xtextures\river\lake_a.28.blp
+- xtextures\river\lake_a.29.blp
+- xtextures\river\lake_a.3.blp
+- xtextures\river\lake_a.30.blp
+- xtextures\river\lake_a.4.blp
+- xtextures\river\lake_a.5.blp
+- xtextures\river\lake_a.6.blp
+- xtextures\river\lake_a.7.blp
+- xtextures\river\lake_a.8.blp
+- xtextures\river\lake_a.9.blp
+163777 - (ModelManager.cpp:19): [Debug] Still in the model manager:
+- environments\stars\stars.m2
+- world\azeroth\burningsteppes\passivedoodads\trees\burningmidtree01.m2
+- world\azeroth\burningsteppes\passivedoodads\trees\burningmidtree03.m2
+- world\azeroth\duskwood\buildings\gnolltent\gnolltent02.m2
+- world\azeroth\duskwood\buildings\gnolltent\gnolltent03.m2
+- world\azeroth\duskwood\passivedoodads\bush\pumpkin01.m2
+- world\azeroth\duskwood\passivedoodads\bush\pumpkinpatch01.m2
+- world\azeroth\duskwood\passivedoodads\coffin\coffin.m2
+- world\azeroth\duskwood\passivedoodads\coffinlid\coffinlid.m2
+- world\azeroth\duskwood\passivedoodads\duskwoodscarecrow\duskscarecrow.m2
+- world\azeroth\duskwood\passivedoodads\duskwoodstraw\duskwoodstraw.m2
+- world\azeroth\duskwood\passivedoodads\duskwoodwheat\duskwoodwheat.m2
+- world\azeroth\duskwood\passivedoodads\fence\duskwoodfencebottom.m2
+- world\azeroth\duskwood\passivedoodads\fence\duskwoodfencebottombroken.m2
+- world\azeroth\duskwood\passivedoodads\fence\duskwoodfencerail.m2
+- world\azeroth\duskwood\passivedoodads\fence\duskwoodfencetop.m2
+- world\azeroth\duskwood\passivedoodads\fence\duskwoodfencetopbroken.m2
+- world\azeroth\duskwood\passivedoodads\gates\duskwoodgate01.m2
+- world\azeroth\duskwood\passivedoodads\graveframe\duskwoodgraveframe.m2
+- world\azeroth\duskwood\passivedoodads\irongate\cemetarygate01.m2
+- world\azeroth\duskwood\passivedoodads\irongate\gatepost.m2
+- world\azeroth\duskwood\passivedoodads\irongate\gatesegment01.m2
+- world\azeroth\duskwood\passivedoodads\irongate\gatesegment02.m2
+- world\azeroth\duskwood\passivedoodads\irongate\gatesegment03.m2
+- world\azeroth\duskwood\passivedoodads\ruins\duskwoodruinsbeam.m2
+- world\azeroth\duskwood\passivedoodads\straw\duskwoodstraw02.m2
+- world\azeroth\duskwood\passivedoodads\tombs\dirtmound01.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone05.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone06.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone07.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstone08.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstonemonument01.m2
+- world\azeroth\duskwood\passivedoodads\tombs\tombstonemonument02.m2
+- world\azeroth\duskwood\passivedoodads\tombs\woodcross01.m2
+- world\azeroth\duskwood\passivedoodads\tombs\woodcross02.m2
+- world\azeroth\duskwood\passivedoodads\webs\webdangle01.m2
+- world\azeroth\duskwood\passivedoodads\webs\webdangle02.m2
+- world\azeroth\duskwood\passivedoodads\webs\webstretch01.m2
+- world\azeroth\elwynn\passivedoodads\battlegladeskullhuman1\battlegladeskullhuman1.m2
+- world\azeroth\elwynn\passivedoodads\detail\elwynnrock1\elwynnrock1.m2
+- world\azeroth\elwynn\passivedoodads\detail\elwynnrock2\elwynnrock2.m2
+- world\azeroth\elwynn\passivedoodads\elwynnfences\elwynnstonefence.m2
+- world\azeroth\elwynn\passivedoodads\elwynnfences\elwynnstonefencepost.m2
+- world\azeroth\elwynn\passivedoodads\jars\jar01.m2
+- world\azeroth\elwynn\passivedoodads\jars\jar02.m2
+- world\azeroth\elwynn\passivedoodads\jars\jar03.m2
+- world\azeroth\elwynn\passivedoodads\pick\pick.m2
+- world\azeroth\elwynn\passivedoodads\shovel\shovel.m2
+- world\azeroth\elwynn\passivedoodads\skeleton\battlegladeboneshumandark.m2
+- world\azeroth\elwynn\passivedoodads\skeleton\battlegladebskeletonhumandark.m2
+- world\azeroth\redridge\passivedoodads\dockpieces\redridgedocksbeam01.m2
+- world\azeroth\stranglethorn\passivedoodads\gemminecar02\gemminecar02.m2
+- world\azeroth\swamposorrow\passivedoodads\plants\swampplant03.m2
+- world\azeroth\swamposorrow\passivedoodads\plants\swampplant04.m2
+- world\azeroth\swamposorrow\passivedoodads\plants\swampplant05.m2
+- world\azeroth\swamposorrow\passivedoodads\swampskulls\swampskulls01.m2
+- world\azeroth\swamposorrow\passivedoodads\swampskulls\swampskulls02.m2
+- world\azeroth\swamposorrow\passivedoodads\treehuts\losttreehuts03.m2
+- world\azeroth\swamposorrow\passivedoodads\waterhuts\waterhut01.m2
+- world\azeroth\swamposorrow\passivedoodads\waterhuts\waterhut02.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsblastedcow.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsblastedmule.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsbone01.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsbonepile02.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsbonepile03.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsskull01.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsskull02.m2
+- world\azeroth\theblastedlands\passivedoodads\bones\blastedlandsspine01.m2
+- world\azeroth\westfall\passivedoodads\barrel\westfallbarrel01.m2
+- world\azeroth\westfall\passivedoodads\brokencart\brokencart.m2
+- world\azeroth\westfall\passivedoodads\butterchurner\butterchurner.m2
+- world\azeroth\westfall\passivedoodads\crate\westfallcrate.m2
+- world\azeroth\westfall\passivedoodads\deadcow\deadcow.m2
+- world\azeroth\westfall\passivedoodads\deadmule\deadmule.m2
+- world\azeroth\westfall\passivedoodads\grindstone\grindstone.m2
+- world\azeroth\westfall\passivedoodads\harness\harness.m2
+- world\azeroth\westfall\passivedoodads\haystack\westfallhaystack01.m2
+- world\azeroth\westfall\passivedoodads\lamppost\westfalllamppost.m2
+- world\azeroth\westfall\passivedoodads\lamppost\westfalllamppost01.m2
+- world\azeroth\westfall\passivedoodads\lamppost\westfalllamppost02.m2
+- world\azeroth\westfall\passivedoodads\outhouse\outhouse.m2
+- world\azeroth\westfall\passivedoodads\rugracks\rugrack01.m2
+- world\azeroth\westfall\passivedoodads\tombstones\tombstone01.m2
+- world\azeroth\westfall\passivedoodads\tombstones\tombstone02.m2
+- world\azeroth\westfall\passivedoodads\tombstones\tombstone03.m2
+- world\azeroth\westfall\passivedoodads\tombstones\tombstone04.m2
+- world\azeroth\westfall\passivedoodads\utensils\bowl.m2
+- world\azeroth\westfall\passivedoodads\utensils\stein.m2
+- world\azeroth\westfall\passivedoodads\westfall wagon\westfallwagon01.m2
+- world\azeroth\westfall\passivedoodads\westfallchair\westfallchair.m2
+- world\azeroth\westfall\passivedoodads\westfallfence\westfallfence.m2
+- world\azeroth\westfall\passivedoodads\westfallfence\westfallfenceend.m2
+- world\azeroth\westfall\passivedoodads\westfallfence\westfallfencepost.m2
+- world\azeroth\westfall\passivedoodads\westfallskeleton\westfallskeleton.m2
+- world\azeroth\westfall\passivedoodads\westfalltable\westfalltable.m2
+- world\critter\birds\bird02.m2
+- world\critter\fish\fish01.m2
+- world\dungeon\goldshireinn\innbed\innbed.m2
+- world\dungeon\goldshireinn\innbedcanopy\innbedcanopy.m2
+- world\dungeon\goldshireinn\innchandelier\innchandelier.m2
+- world\dungeon\goldshireinn\innpillow\innpillow.m2
+- world\expansion02\doodads\dalaran\dalaran_craterdome.m2
+- world\generic\activedoodads\instanceportal\instanceportal.m2
+- world\generic\buildings\humantentlarge\humantentlarge.m2
+- world\generic\buildings\humantentmedium\humantentmedium.m2
+- world\generic\dwarf\passive doodads\excavationropestake\excavationropestake.m2
+- world\generic\dwarf\passive doodads\excavationstake\excavationstake.m2
+- world\generic\dwarf\passive doodads\excavationtentpavillion\excavationtentpavillion.m2
+- world\generic\dwarf\passive doodads\gunracks\gunrack02b.m2
+- world\generic\dwarf\passive doodads\tavernstuff\grainsacs01.m2
+- world\generic\dwarf\passive doodads\tavernstuff\grainsacs02.m2
+- world\generic\human\passive doodads\animalheads\duskwoodboarhead01.m2
+- world\generic\human\passive doodads\animalheads\duskwooddeerhead01.m2
+- world\generic\human\passive doodads\armor\armorstandmailblue.m2
+- world\generic\human\passive doodads\armor\armorstandmailcoifblue.m2
+- world\generic\human\passive doodads\artwork\stormwindpainting01.m2
+- world\generic\human\passive doodads\artwork\stormwindpainting02.m2
+- world\generic\human\passive doodads\artwork\stormwindpainting03.m2
+- world\generic\human\passive doodads\artwork\stormwindpainting04.m2
+- world\generic\human\passive doodads\artwork\stormwindpainting05.m2
+- world\generic\human\passive doodads\banners\shadowfangbanner01.m2
+- world\generic\human\passive doodads\banners\shadowfangbanner02.m2
+- world\generic\human\passive doodads\beerkegs\beerkeg01.m2
+- world\generic\human\passive doodads\beerkegs\beerkeg02.m2
+- world\generic\human\passive doodads\benches\duskwoodbench.m2
+- world\generic\human\passive doodads\benches\innbench.m2
+- world\generic\human\passive doodads\benches\shadowfangbench01.m2
+- world\generic\human\passive doodads\benches\stormwindbench01.m2
+- world\generic\human\passive doodads\bookshelves\abbeyshelf01.m2
+- world\generic\human\passive doodads\bookshelves\duskwoodbookshelf01.m2
+- world\generic\human\passive doodads\bookshelves\duskwoodbookshelf02.m2
+- world\generic\human\passive doodads\bookshelves\duskwoodbookshelf03.m2
+- world\generic\human\passive doodads\bookstacks\generalbookstackshort01.m2
+- world\generic\human\passive doodads\bookstacks\generalbookstacktall01.m2
+- world\generic\human\passive doodads\bottles\bottle01.m2
+- world\generic\human\passive doodads\bottles\bottlesmoke.m2
+- world\generic\human\passive doodads\bottles\greenbottle01.m2
+- world\generic\human\passive doodads\bottles\greenbottle02.m2
+- world\generic\human\passive doodads\buckets\cavekoboldbucket.m2
+- world\generic\human\passive doodads\candelabras\generalcandelabra01.m2
+- world\generic\human\passive doodads\cargonetboxes\deadminecargonetboxes.m2
+- world\generic\human\passive doodads\cargonets\deadminecargonethang.m2
+- world\generic\human\passive doodads\cargonets\deadminecargonethangshort.m2
+- world\generic\human\passive doodads\chairs\generalchairhighend01.m2
+- world\generic\human\passive doodads\chairs\generalchairloend01.m2
+- world\generic\human\passive doodads\chairs\generalmedchair01.m2
+- world\generic\human\passive doodads\chairs\shadowfangchair01.m2
+- world\generic\human\passive doodads\chairs\shadowfangchair02.m2
+- world\generic\human\passive doodads\cloth\clothboltgreen.m2
+- world\generic\human\passive doodads\cloth\clothspoolblue.m2
+- world\generic\human\passive doodads\cloth\clothspoolyellow.m2
+- world\generic\human\passive doodads\clothing\bootsleatherblack.m2
+- world\generic\human\passive doodads\clothing\bootsleatherdark.m2
+- world\generic\human\passive doodads\clothing\foldedpantsbrown.m2
+- world\generic\human\passive doodads\clothing\foldedpantsgrey.m2
+- world\generic\human\passive doodads\clothing\foldershirtgreen.m2
+- world\generic\human\passive doodads\clothing\hangingcloakblue.m2
+- world\generic\human\passive doodads\clothing\hangingshirtbrown.m2
+- world\generic\human\passive doodads\clothing\hangingshirtgreen.m2
+- world\generic\human\passive doodads\crates\crategrain01.m2
+- world\generic\human\passive doodads\crates\crategrainempty.m2
+- world\generic\human\passive doodads\crates\crategrainlid.m2
+- world\generic\human\passive doodads\crates\replacecrate02.m2
+- world\generic\human\passive doodads\crates\stormwindcrate01.m2
+- world\generic\human\passive doodads\dolls\ragdoll01.m2
+- world\generic\human\passive doodads\drapery\drapery02.m2
+- world\generic\human\passive doodads\dredge\cavekobolddredge.m2
+- world\generic\human\passive doodads\firewood\firewoodpile03.m2
+- world\generic\human\passive doodads\flowers\flowersbunch01.m2
+- world\generic\human\passive doodads\flowers\flowersbunch02.m2
+- world\generic\human\passive doodads\flowers\flowersbunch03.m2
+- world\generic\human\passive doodads\flowers\flowersbunch04.m2
+- world\generic\human\passive doodads\flowers\flowersbunch05.m2
+- world\generic\human\passive doodads\flowers\flowerswreath01.m2
+- world\generic\human\passive doodads\flowers\flowerswreath02.m2
+- world\generic\human\passive doodads\flowers\flowerswreathdead01.m2
+- world\generic\human\passive doodads\food&utensils\cleaver01.m2
+- world\generic\human\passive doodads\food&utensils\haunch.m2
+- world\generic\human\passive doodads\food&utensils\turkeyleg.m2
+- world\generic\human\passive doodads\food\breadfrench01.m2
+- world\generic\human\passive doodads\food\cheesewedgeswiss01.m2
+- world\generic\human\passive doodads\food\cheesewheelswiss01.m2
+- world\generic\human\passive doodads\food\muffin01.m2
+- world\generic\human\passive doodads\food\pie01.m2
+- world\generic\human\passive doodads\footlockers\duskwoodfootlocker01.m2
+- world\generic\human\passive doodads\fountains\stormwindfountain01.m2
+- world\generic\human\passive doodads\fountains\tirisfallfountain.m2
+- world\generic\human\passive doodads\goblets\goblet02.m2
+- world\generic\human\passive doodads\gunshop\gunshopbomb.m2
+- world\generic\human\passive doodads\gunshop\gunshoppowderkegopen.m2
+- world\generic\human\passive doodads\gypsywagons\stormwindgypsywagon01.m2
+- world\generic\human\passive doodads\hanginglanterns\generalhanginglantern01.m2
+- world\generic\human\passive doodads\hanginglanterns\generalhanginglanternlong.m2
+- world\generic\human\passive doodads\haypiles\shadowfanghaypile01.m2
+- world\generic\human\passive doodads\haypiles\shadowfanghaypile02.m2
+- world\generic\human\passive doodads\lamps\tirisfallstreetlamp01.m2
+- world\generic\human\passive doodads\lamps\westernplaguelandslampostbroken01.m2
+- world\generic\human\passive doodads\lamps\westernplaguelandslampostbroken02.m2
+- world\generic\human\passive doodads\lanterns\generallantern01.m2
+- world\generic\human\passive doodads\lanterns\generallantern02.m2
+- world\generic\human\passive doodads\lanterns\generallantern03.m2
+- world\generic\human\passive doodads\loom\loomhumanwhite.m2
+- world\generic\human\passive doodads\lumberpiles\deadminelumberpilelarge.m2
+- world\generic\human\passive doodads\lumberpiles\deadminelumberpilesmall.m2
+- world\generic\human\passive doodads\meat\bloodymeat01.m2
+- world\generic\human\passive doodads\meat\bloodymeat02.m2
+- world\generic\human\passive doodads\minemachine\cavekoboldminemachine.m2
+- world\generic\human\passive doodads\mugs\mug01.m2
+- world\generic\human\passive doodads\mugs\mug02.m2
+- world\generic\human\passive doodads\mugs\stein01.m2
+- world\generic\human\passive doodads\pews\generalchurchpew01.m2
+- world\generic\human\passive doodads\plates\generaldirtyplate01.m2
+- world\generic\human\passive doodads\podiums\duskwoodpodium01.m2
+- world\generic\human\passive doodads\ropes\cavekoboldropecoil.m2
+- world\generic\human\passive doodads\rugs\generalbearskinrug01.m2
+- world\generic\human\passive doodads\rugs\stormwindrug01.m2
+- world\generic\human\passive doodads\rugs\stormwindrug02.m2
+- world\generic\human\passive doodads\scrolls\scrolla03.m2
+- world\generic\human\passive doodads\scrolls\scrollb01.m2
+- world\generic\human\passive doodads\scrolls\scrollb03.m2
+- world\generic\human\passive doodads\shack\shack.m2
+- world\generic\human\passive doodads\shopcounter\duskwoodshopcounter.m2
+- world\generic\human\passive doodads\shopcounter\duskwoodshopcounter02.m2
+- world\generic\human\passive doodads\signposts\humansignpost04.m2
+- world\generic\human\passive doodads\tables\bloodytable1.m2
+- world\generic\human\passive doodads\tables\bloodytable2.m2
+- world\generic\human\passive doodads\tables\duskwoodtable01.m2
+- world\generic\human\passive doodads\tables\inntable.m2
+- world\generic\human\passive doodads\tables\inntablesmall.m2
+- world\generic\human\passive doodads\tables\inntabletiny.m2
+- world\generic\human\passive doodads\tables\shadowfangtable01.m2
+- world\generic\human\passive doodads\tables\shadowfangtable02.m2
+- world\generic\human\passive doodads\vendorawnings\stormwindvendorawning01.m2
+- world\generic\human\passive doodads\vials\smallvials.m2
+- world\generic\human\passive doodads\vials\vialsbottles.m2
+- world\generic\human\passive doodads\walls\greatwall_portcullis.m2
+- world\generic\human\passive doodads\wardrobe\duskwoodwardrobe01.m2
+- world\generic\human\passive doodads\wardrobe\duskwoodwardrobe02.m2
+- world\generic\human\passive doodads\weaponracks\generalweaponrack01.m2
+- world\generic\human\passive doodads\weapons&armor\humanaxe01.m2
+- world\generic\human\passive doodads\weapons&armor\humanaxe02.m2
+- world\generic\human\passive doodads\weapons&armor\humanmace01.m2
+- world\generic\human\passive doodads\weapons&armor\humanmace02.m2
+- world\generic\human\passive doodads\weapons&armor\humanspear01.m2
+- world\generic\human\passive doodads\weapons&armor\humanspear02.m2
+- world\generic\human\passive doodads\weapons&armor\wallshield03.m2
+- world\generic\human\passive doodads\weapons&armor\wallsword01.m2
+- world\generic\human\passive doodads\westfallgrainsilodestroyed01.m2
+- world\generic\orc\passive doodads\animalskulls\carnosaurskull.m2
+- world\generic\orc\passive doodads\animalskulls\tallstriderskull.m2
+- world\generic\orc\passive doodads\animalskulls\tigerskull.m2
+- world\generic\orc\passive doodads\bowls\bowlwood01.m2
+- world\generic\orc\passive doodads\bowls\bowlwood02.m2
+- world\generic\orc\passive doodads\feedingtroughs\feedtroph01.m2
+- world\generic\orc\passive doodads\rugs\furrug01.m2
+- world\generic\passivedoodads\barrel\barrel01.m2
+- world\generic\passivedoodads\barrel\brokenbarrel01.m2
+- world\generic\passivedoodads\barrel\brokenbarrel02.m2
+- world\generic\passivedoodads\crate01\crate01.m2
+- world\generic\passivedoodads\crate02\crate02.m2
+- world\generic\passivedoodads\furniture\containers\barrel02.m2
+- world\generic\passivedoodads\furniture\containers\crate03.m2
+- world\generic\passivedoodads\furniture\containers\sack01.m2
+- world\generic\passivedoodads\furniture\containers\sack02.m2
+- world\generic\passivedoodads\lights\candle01.m2
+- world\generic\passivedoodads\lights\candle02.m2
+- world\generic\passivedoodads\lights\candle03.m2
+- world\generic\passivedoodads\lights\candleoff01.m2
+- world\generic\passivedoodads\lights\candleoff02.m2
+- world\generic\passivedoodads\lights\candleoff03.m2
+- world\generic\passivedoodads\lights\generaltorch01.m2
+- world\generic\passivedoodads\lights\torch.m2
+- world\generic\passivedoodads\misc\minecars\caveminecar01.m2
+- world\generic\passivedoodads\misc\minecars\caveminecarwrecked01.m2
+- world\generic\passivedoodads\misc\minecars\caveminecarwrecked02.m2
+- world\generic\passivedoodads\misc\minecars\caveminepulley02.m2
+- world\generic\passivedoodads\misc\wheelbarrow\caveminewheelbarrow01.m2
+- world\generic\passivedoodads\particleemitters\blacksmith_smoke.m2
+- world\generic\passivedoodads\particleemitters\housesmoke.m2
+- world\generic\passivedoodads\skeletons\lightskeletonlaying02.m2
+- world\generic\passivedoodads\well\well.m2
+- world\generic\pvp\collisionwall\collisionwallpvp01.m2
+- world\generic\tauren\passive doodads\ballandhoop\taurenleatherball.m2
+- world\generic\tauren\passive doodads\carvingtools\carvinghatchet01.m2
+- world\generic\undead\passive doodads\batroost\batroost.m2
+- world\generic\undead\passive doodads\batroost\batroost02.m2
+- world\generic\undead\passive doodads\meatwagonpieces\meatwagonbody.m2
+- world\generic\undead\passive doodads\meatwagonpieces\meatwagonwheel.m2
+- world\generic\undead\passive doodads\taxiflags\taxiflagundead.m2
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\burnedgypsywagon01.m2
+- world\kalimdor\mulgore\passivedoodads\burnedwagons\burnedgypsywagon02.m2
+- world\kalimdor\stonetalon\passivedoodads\trees\burntstonetree01.m2
+- world\kalimdor\stonetalon\passivedoodads\trees\burntstonetree07.m2
+- world\kalimdor\stonetalon\passivedoodads\trees\burntstonetree08.m2
+- world\khazmodan\badlands\passivedoodads\wagon\badlandssunkenwagon.m2
+- world\lordaeron\alteracmountains\passivedoodads\bushes\alteracshrub02.m2
+- world\lordaeron\alteracmountains\passivedoodads\opengraves\alteracopengrave01.m2
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractree01.m2
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractree02.m2
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractree03.m2
+- world\lordaeron\alteracmountains\passivedoodads\trees\alteractree04.m2
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush01.m2
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush02.m2
+- world\lordaeron\silverpine\passivedoodads\bushes\silverpinebush03.m2
+- world\lordaeron\silverpine\passivedoodads\shadowfanggates\shadowfanggate01.m2
+- world\lordaeron\silverpine\passivedoodads\shadowfanggates\shadowfanggate02.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree01.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree01fallen.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree02.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree02fallen.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree03.m2
+- world\lordaeron\silverpine\passivedoodads\trees\silverpinetree04.m2
+- world\lordaeron\silverpine\passivedoodads\treestumps\silverpinetreestump01.m2
+- world\lordaeron\silverpine\passivedoodads\treestumps\silverpinetreestump02.m2
+- world\lordaeron\tirisfalglade\passivedoodads\boardwalk\tirisfallboardwalk01.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost01.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost02.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost03.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost04.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost05.m2
+- world\lordaeron\tirisfalglade\passivedoodads\outposts\tirisfalloutpost07.m2
+- world\lordaeron\tirisfalglade\passivedoodads\windmill\tirisfallwindmill.m2
+163777 - (WMO.cpp:1175): [Debug] Still in the WMO manager:
+- world\wmo\azeroth\buildings\duskwood_barn\duskwood_barn.wmo
+- world\wmo\azeroth\buildings\duskwood_blacksmith\duskwood_blacksmith.wmo
+- world\wmo\azeroth\buildings\duskwood_human_farm\duskwood_human_farm.wmo
+- world\wmo\azeroth\buildings\duskwood_human_farm_burnt\duskwoodfarmhouseburnt.wmo
+- world\wmo\azeroth\buildings\duskwood_humantwostory\duskwood_humantwostory.wmo
+- world\wmo\azeroth\buildings\duskwood_inn\duskwood_inn.wmo
+- world\wmo\azeroth\buildings\duskwood_stable\duskwood_stable.wmo
+- world\wmo\azeroth\buildings\duskwood_townhall\duskwood_townhall.wmo
+- world\wmo\azeroth\buildings\duskwood_townhall_nowall\duskwood_townhall_nowall.wmo
+- world\wmo\azeroth\buildings\duskwoodabandoned_barn\duskwoodabandoned_barn.wmo
+- world\wmo\azeroth\buildings\duskwoodabandoned_human_farm\duskwoodabandoned_human_farm.wmo
+- world\wmo\azeroth\buildings\duskwoodabandoned_humantwostory\duskwoodabandoned_humantwostory.wmo
+- world\wmo\azeroth\buildings\duskwoodabandoned_lumbermill\duskwoodabandoned_lumbermill.wmo
+- world\wmo\azeroth\buildings\guardtower_ruined\ruinedhumanguardtower01.wmo
+- world\wmo\azeroth\collidable doodads\westfall\westfallgrainsilo01\westfallgrainsilo01.wmo
+- world\wmo\dungeon\ld_shadowfang\ld_shadowfang.wmo
+- world\wmo\dungeon\md_cryptonerm\md_cryptonerm.wmo
+- world\wmo\dungeon\md_goldmine\md_goldmine_1room.wmo
+- world\wmo\dungeon\md_mountaincave\md_mountaincave_medium.wmo
+- world\wmo\khazmodan\buildings\greatwall\greatwall_gate.wmo
+- world\wmo\khazmodan\buildings\greatwall\greatwall_wall_04.wmo
+163867 - (Noggit.cpp:540): [Debug] Exited
